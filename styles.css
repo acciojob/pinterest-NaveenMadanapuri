@@ -1,7 +1,8 @@
 /*  your css code here. If applicable */
 .img{
 	width:400px;
-	height:200px
+	height:200px;
+	object-fit:cover;
 }
 .button{
 	padding:10px;
